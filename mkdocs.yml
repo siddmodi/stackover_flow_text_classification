@@ -1,5 +1,5 @@
 # Project information
-site_name: stackover_flow_text_classification
+site_name: stackover_flow_text_classification_dvc
 # defeine TOC or order of website-
 nav:
   - Home: index.md
