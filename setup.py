@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 ## edit below variables as per your requirements -
 REPO_NAME = "REPO_NAME"
-AUTHOR_USER_NAME = "siddharth"
+AUTHOR_USER_NAME = "siddmodi"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = []
 
