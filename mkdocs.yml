@@ -16,7 +16,7 @@ repo_url: https://github.com/siddmodi/stackover_flow_text_classification
 
 # Configuration
 theme:
-  name: material
+  name: readthedocs
   features:
     - navigation.tabs
     - navigation.sections
@@ -51,18 +51,18 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js #?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-markdown_extensions:
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - admonition
-  - pymdownx.arithmatex:
-      generic: true
-  - footnotes
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.mark
+# markdown_extensions:
+#   - pymdownx.highlight:
+#       anchor_linenums: true
+#   - pymdownx.inlinehilite
+#   - pymdownx.snippets
+#   - admonition
+#   - pymdownx.arithmatex:
+#       generic: true
+#   - footnotes
+#   - pymdownx.details
+#   - pymdownx.superfences
+#   - pymdownx.mark
   
   
 plugins:
